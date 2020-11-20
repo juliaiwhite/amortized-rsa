@@ -1,5 +1,5 @@
 # amortized-rsa
-## [Learning to refer informatively by amortizing pragmatic reasoning](https://arxiv.org/abs/2006.00418)
+### [Learning to refer informatively by amortizing pragmatic reasoning](https://arxiv.org/abs/2006.00418)
 
 - `shapeworld.py` generates the shapeworld dataset
 - `models.py` contains code for the models listed in the paper
